@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "655426bc249f8ba367fe1801",
+  "owner": "feaucgxrkrt",
+  "repo": "page-c72e4f1356f61944b9ef7665",
+  "title": "芳乃家",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c72e4f1356f61944b9ef7665",
+      "a": "芳乃家",
+      "b": "",
+      "entity": "芳乃家",
+      "brand": "芳乃家",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6f3dab0477150a8646354c0c8ab8e0e687b7a51b8d4d6d31444634df5f0e3164",
+      "content": {
+        "keyword1": "芳乃家",
+        "keyword2": "",
+        "primary_entity": "芳乃家",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "芳乃家是提供机场订阅与 VPN 网络加速的官方网站，覆盖多端客户端下载、流媒体解锁与游戏专线，套餐透明，适合个人与团队使用。",
+          "AI_DESCRIPTION": "芳乃家是提供机场订阅与 VPN 网络加速的官方网站，覆盖多端客户端下载、流媒体解锁与游戏专线，套餐透明，适合个人与团队使用。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans SC\",sans-serif;background:#eef4f8;color:#102a43;font-size:16px;line-height:1.65}img,svg{display:none}a{color:#0b7a78;text-decoration:none}a:hover{text-decoration:underline}header{background:#0a2540;color:#f4fffd}header .bar{max-width:980px;margin:0 auto;padding:.85rem 1rem;display:flex;flex-wrap:wrap;gap:.75rem;align-items:center;justify-content:space-between}.brand-mark{margin:0;font-size:1.2rem;font-weight:700;color:#00d4c8}nav{display:flex;flex-wrap:wrap;gap:.7rem 1rem}nav a{color:#c9f7f3;font-size:.95rem}main{max-width:980px;margin:0 auto;padding:1rem}h1{font-size:2rem;line-height:1.25;margin:.4rem 0 .6rem;color:#0a2540}h2{font-size:1.45rem;margin:1.6rem 0 .7rem;color:#0a2540;border-bottom:2px solid #00d4c8;padding-bottom:.3rem}h3{font-size:1.12rem;margin:1rem 0 .4rem;color:#12364f}.lead{font-size:1.08rem;color:#245;margin:0 0 1rem}.panel{background:#fff;border:1px solid #c9d7e4;border-radius:10px;padding:1rem 1.1rem;margin:0 0 1rem}.cols{display:flex;flex-direction:column;gap:1rem}@media (min-width:720px){.cols{flex-direction:row}.cols > *{flex:1}h1{font-size:2.35rem}} .plans{display:flex;flex-direction:column;gap:1rem}@media (min-width:760px){.plans{flex-direction:row;align-items:stretch}} .plan{background:#fff;border:2px solid #0a2540;border-radius:12px;padding:1.1rem;flex:1} .plan.featured{border-color:#00d4c8;background:#f2fffd;box-shadow:0 0 0 3px rgba(0,212,200,.18)} .tag{display:inline-block;background:#00d4c8;color:#06242b;font-size:.75rem;font-weight:700;padding:.15rem .45rem;border-radius:4px;margin-bottom:.4rem} .price{font-size:1.7rem;font-weight:700;color:#0a2540;margin:.2rem 0} .annual{color:#0b7a78;font-size:.95rem;margin:0 0 .6rem} .plan ul{margin:.3rem 0 0;padding-left:1.15rem} .plan li{margin:.28rem 0}details{background:#fff;border:1px solid #c9d7e4;border-radius:8px;padding:.65rem .85rem;margin:0 0 .65rem}summary{font-weight:700;color:#0a2540}details p{margin:.5rem 0 0}footer{background:#0a2540;color:#d7eef0;margin-top:1.5rem;padding:1.2rem 0 2rem}footer a{color:#9ef0ea}footer h2{color:#e7fffc;border-bottom-color:#147c78}footer .wrap{max-width:980px;margin:0 auto;padding:0 1rem}.adbox{background:#123a58;border:1px dashed #00d4c8;padding:.85rem 1rem;border-radius:8px;margin:.6rem 0 1rem}.links a,.map a{display:inline-block;margin:0 .7rem .45rem 0}.fine{font-size:.88rem;color:#9bb8c4;margin-top:1rem}</style><header><div class=\"bar\"><p class=\"brand-mark\">芳乃家官网</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section id=\"intro\"><h1>芳乃家</h1><p class=\"lead\">芳乃家官方网站提供机场订阅、VPN 梯子网络加速与多端客户端下载，套餐公开、节点策略清晰，面向个人办公与团队协作。</p><div class=\"cols\"><article class=\"panel\"><h2>品牌简介</h2><p>芳乃家专注稳定可达的网络加速服务，将机场订阅、通用客户端与专线节点放在同一套说明里，减少用户在官网、下载与配置之间来回查找的成本。无论是跨境会议、资料同步，还是流媒体与游戏线路，芳乃家都以可预期的流量与设备规则来组织产品。</p><p>本页是芳乃家官方入口，内容覆盖套餐对比、导入步骤与客户端适配说明。我们不通过非正式渠道发放订阅，也不把节点列表写进公开页面，以免造成滥用。需要开通或续费时，请以本站套餐说明为准，再按操作指引完成客户端配置。</p></article><article class=\"panel\"><h3>官方身份与服务边界</h3><p>芳乃家以订阅制提供加速能力：基础版面向轻度浏览，旗舰版覆盖日常流媒体与游戏优化，团队版服务多设备与定制路由。所有档位均支持常见协议客户端导入订阅。官网只发布配置方法与套餐事实，不承诺特定网站的永久解锁结果，实际体验随线路负载变化。</p><h3>为何从官网开始</h3><p>先确认套餐流量、设备上限与年付价格，再下载对应客户端并导入订阅，是最稳妥的路径。芳乃家把对比信息放在首屏之后，方便你按用量选择，而不是先下载后才发现档位不匹配。</p></article></div></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为芳乃家现行公开档位。价格按月展示，同时给出年付口径，便于个人与团队做预算。旗舰版为多数用户的默认推荐。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>流量按自然月重置，不自动结转到下一完整计费周期以外。同时在线设备以实际握手会话计算。若你主要看视频并偶尔开黑，优先对比旗舰版；若办公室或工作室需要统一路由，再看团队版的定制项。</p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"cols\"><article class=\"panel\"><h3>跨境办公与会议</h3><p>文档同步、远程桌面和多方会议对延迟抖动更敏感。芳乃家旗舰版与团队版提供更干净的出口策略，减少因公共线路拥塞导致的重连。团队版可按域名或网段做定制路由，把加速范围限制在必要应用。</p></article><article class=\"panel\"><h3>流媒体与资料访问</h3><p>基础版提供基础流媒体解锁，适合偶尔点播。旗舰版强调全节点原生解锁，降低因中转链路被识别而失败的概率。学术资料站、软件源与设计素材库同样走订阅节点，按流量计费，便于控制成本。</p></article></div><article class=\"panel\"><h3>游戏加速与多设备家庭</h3><p>IPLC 专线优化主要体现在对延迟稳定要求更高的对战与更新下载。家庭或宿舍多终端同时在线时，请按设备上限选择档位：三人轻度使用可选基础版，五台常用设备建议旗舰版，工作室机房再考虑团队版的 20 台额度与专属客户经理。</p></article></section><section id=\"guide\"><h2>操作说明</h2><article class=\"panel\"><h3>一、确认套餐与设备数量</h3><p>打开本页套餐对比，核对每月流量、同时在线台数以及是否需要 IPLC 或定制路由。选定后记录档位名称，后续工单沟通时只需提供订阅前缀，不必发送完整链接。</p><h3>二、获取机场订阅地址</h3><p>开通完成后，在用户中心复制订阅 URL。该地址用于客户端自动拉取节点，请保存在本地密码管理器，不要发到群聊或公开收藏夹。</p><h3>三、安装客户端并导入</h3><p>按系统选择客户端（见下载章节）。打开应用，选择“从 URL 更新 / 导入订阅”，粘贴地址，等待节点列表刷新。首次连接建议选择标注延迟较低的普通节点做连通性验证，再切换到流媒体或游戏分组。</p><h3>四、连接、分流与日常维护</h3><p>开启系统代理或 TUN 模式后，浏览目标站点验证。若某条线路失败，切换同分组其他节点即可，不必反复重装。订阅一般每日自动更新；若节点为空，优先检查本地时间、系统代理冲突，以及当月流量是否用尽。</p></article></section><section id=\"download\"><h2>客户端下载</h2><article class=\"panel\"><p>芳乃家官方下载入口按平台给出适配说明。本站不托管来路不明的安装包，请使用正版系统应用商店或客户端项目的正式发布页，再导入芳乃家订阅。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用图形化代理客户端或 Clash 兼容内核。导入订阅后，开启“系统代理”即可覆盖浏览器与多数应用。若公司软件走独立网络栈，需在客户端中打开增强模式。</p><h3>移动端</h3><p>Android 使用支持订阅的通用代理应用；iOS 使用兼容描述文件或商店内可导入订阅的客户端。移动网络下建议关闭无用的 UDP 转发以节省流量。同一订阅可在套餐设备上限内多端登录。</p><h3>导入后检查清单</h3><p>1. 节点列表非空；2. 系统时间准确；3. 没有第二个全局代理同时开启；4. 流媒体分组与游戏分组分开选择。完成以上四项，再判断线路质量，避免把配置问题当成节点故障。</p><p><a href=\"#plans\">返回套餐对比</a> · <a href=\"#faq\">查看导入失败怎么办</a></p></article></section><section id=\"faq\"><h2>常见问题</h2><details><summary>芳乃家官网可以下载哪些客户端？</summary><p>芳乃家支持 Windows、macOS、Android、iOS 以及 Clash 兼容核心。请先在本页阅读平台说明，再从正式发布渠道获取安装包，最后把机场订阅 URL 粘贴进客户端。官网不提供来源不明的打包文件。</p></details><details><summary>机场订阅链接应该怎样导入？</summary><p>复制用户中心中的订阅地址，在客户端选择从 URL 更新或导入订阅，确认更新成功后选择节点连接。不要把完整链接发到社交软件。若更新失败，检查是否用了 HTTPS 复制完整、本地时间是否正确，以及套餐是否仍在有效期。</p></details><details><summary>三个套餐的流量和设备数如何计算？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版每月 300GB、5 台；团队版每月 1000GB、20 台。流量按自然月重置。同时在线以仍保持握手的会话为准，闲置设备请在客户端断开。年付只改变付款周期，不把全年流量一次性汇总使用。</p></details><details><summary>能否稳定解锁常见流媒体平台？</summary><p>旗舰版与团队版采用全节点原生流媒体解锁策略，覆盖常见影视与音乐服务。基础版提供基础解锁，高峰期可能受线路负载影响。解锁结果会随平台策略变化，请以客户端内实际播放检测为准，不要只看节点名称。</p></details><details><summary>游戏场景为什么要提到 IPLC？</summary><p>IPLC 专线用于降低国际段的抖动，更适合对延迟稳定有要求的对战与更新。该能力包含在旗舰版与更高档位中。若你只是网页浏览，普通线路节点池通常已经足够，不必为游戏优化单独支付更高档。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>高速流量用尽后，当月将降速或暂停极速通道，次月重置。设备超限时新会话无法建立，断开闲置终端或升级档位即可。团队版另提供 VIP 高带宽节点与专属客户经理，适合把加速当作办公基础设施的团队。</p></details><details><summary>如何联系芳乃家而不泄露订阅？</summary><p>旗舰版含 7x24 优先工单，团队版含专属客户经理。提交问题时只发送订阅前缀、操作系统、客户端名称和报错原文，不要粘贴完整订阅 URL。芳乃家只通过官方网站公布的渠道回复，不会以加快开通为由要求额外转账。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><section id=\"ads\"><h2>公告与广告位</h2><p>此处为芳乃家官方网站信息展示区，用于版本说明与合规合作，不跳转到不明下载站。</p><div class=\"adbox\">公告：年付通道与旗舰版 IPLC 分组说明已更新，请以本页套餐对比为准，并在客户端中重新更新订阅后再测试流媒体与游戏节点。</div></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#intro\">芳乃家简介</a><a href=\"#download\">官方下载说明</a><a href=\"#plans\">套餐与年付</a><a href=\"#guide\">导入教程</a><a href=\"#\">合作咨询</a><a href=\"#\">服务条款</a><a href=\"#\">使用须知</a></p></section><section id=\"sitemap\"><h2>网站地图</h2><p class=\"map\"><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐对比</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">公告</a><a href=\"#links\">友情链接</a></p></section><p class=\"fine\">© 芳乃家 官方网站 · 机场订阅与 VPN 网络加速服务说明页 · 内容以本站公示套餐为准</p></div></footer>",
+          "hash": "431302adf5edde33cdde52df509adada482e70debb04a0ea4ad03863edfa1b3f",
+          "seo": {
+            "title": "芳乃家官方网站 - 机场订阅 VPN 梯子网络加速与客户端下载",
+            "keywords": "芳乃家,芳乃家机场,芳乃家VPN,芳乃家官网,芳乃家官方下载,机场订阅,VPN加速器,梯子,网络加速,客户端下载",
+            "description": "芳乃家是提供机场订阅与 VPN 网络加速的官方网站，覆盖多端客户端下载、流媒体解锁与游戏专线，套餐透明，适合个人与团队使用。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kdeyuxc.cn",
+    "host": "p-a47e0351f9.kdeyuxc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "kdeyuxc.cn",
+      "url": "https://kdeyuxc.cn/",
+      "label": "Windup",
+      "apex": "kdeyuxc.cn",
+      "kind": null,
+      "identity": "kcmgexnmk/page-8323ad63e531818df1f2b01e"
+    },
+    {
+      "host": "lp8sxf.cn",
+      "url": "https://lp8sxf.cn/",
+      "label": "芳乃家",
+      "apex": "lp8sxf.cn",
+      "kind": null,
+      "identity": "apcx3nqcm/page-f87db612c929d6b28e0b61fc"
+    },
+    {
+      "host": "rhgse.cn",
+      "url": "https://rhgse.cn/",
+      "label": "芳乃家",
+      "apex": "rhgse.cn",
+      "kind": null,
+      "identity": "kamkgaeken/page-d791083e9b5cbfdab448a78a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "b53c0b0f20abe6a99cd1814178bbd1db2f0bc8cb85a04857bcfcc2cf93b1fcbd",
+    "sitemap.xml": "1f1ca1c5e5fa5d4767e3ca797be552747bbbfafe182bee7d7a8a284d7276c000",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a6a86c063ac1c823f6bf5d9442f7a1a5123b36030be991e9a52d2ced0479d4ec",
+    "robots.txt": "29be1289635008e4703e572e4965830742a29b9478d528ca854a006881f37063",
+    "cac5d153b8a51d98967b2950ac5d4688.txt": "a910e7c38efe2881b0c399e47492e7d4675c938bc278ff8c7c4ebefd30989c1d"
+  },
+  "revision": "635f9b67474c5c29651a3c9d493ee9bd4aa64fee4ae32fdd39bf0917938766c4"
+}
